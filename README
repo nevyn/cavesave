@@ -1,0 +1,9 @@
+CaveSave
+==================
+This utility transfers Cave Story (a k a Doukutsu Monogatari) save files
+between the Windows and MacOS versions. A utility is needed for this,
+because the Windows version saves into a file called "Profile.dat",
+while the Mac version embeds this file into its preferences plist file.
+
+This utility doesn't actually work yet. Cave Story crashes when trying
+to load a transferred save file. I'm working on this...
